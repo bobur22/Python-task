@@ -4,7 +4,7 @@
 This MahsulotCom admin management
 
 ## Before start pull my files to your lap top.
-    git@github.com:bobur22/Python-task.git
+    git clone git@github.com:bobur22/Python-task.git
 ## And then open your terminal and start creating by env file
       python3 install -m venv .env
 ## then activate env file.
