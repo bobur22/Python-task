@@ -24,3 +24,4 @@ This MahsulotCom admin management
 
 #Then when you open your local host you have to add to your path admin and it will move you to the admin management system.
 So there you have to use your super user account and login to the account.
+## and project is ready.
