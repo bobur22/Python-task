@@ -24,5 +24,6 @@ class ShopAdmin(admin.ModelAdmin):
     list_display_links = ['id', 'title']
     search_fields = ["title"]
     ordering = ['id']
+    readonly_fields = ['img_preview']
 
 admin.site.register(Images)
